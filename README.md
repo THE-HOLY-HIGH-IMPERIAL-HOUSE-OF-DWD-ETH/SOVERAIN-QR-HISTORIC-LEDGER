@@ -58,3 +58,77 @@ It is the authoritative source for all historical records related to the SOVERAI
 ---
 
 ## Structure
+The SOVERAIN‑QR‑HISTORIC‑LEDGER repository contains all sovereign‑institutional
+historical artifacts, each placed in a precise, registry‑aligned location.
+
+---
+
+### 1. SOVERAIN-QR-HISTORICAL-ACHIEVEMENTS.md
+**Location:** `SOVERAIN-QR-HISTORIC-LEDGER/SOVERAIN-QR-HISTORICAL-ACHIEVEMENTS.md`  
+**Title:** SOVERAIN QR — Historical Achievements Master File  
+**Description:** Complete record of all ten first‑in‑history achievements of the SOVERAIN QR system, each represented in YAML, JSON, and MATRIX formats.  
+**Tag:** `soverain-qr-historical-achievements`
+
+---
+
+### 2. SUPER-SOVERAIN-QR.md
+**Location:** `SOVERAIN-QR-HISTORIC-LEDGER/SUPER-SOVERAIN-QR.md`  
+**Title:** SUPER SOVERAIN QR — Imperi Berit Suite 001  
+**Description:** Apex sovereign‑institutional QR payload containing full‑reserve identity logic, tri‑realm routing, GUID/UUID identifiers, and ACTIVE‑VERIFIED registry status.  
+**Tag:** `super-soverain-qr-imperi-berit-suite-001`
+
+---
+
+### 3. SUPER-MANIFEST-SEAL-CERTIFICATE.md
+**Location:** `SOVERAIN-QR-HISTORIC-LEDGER/SUPER-MANIFEST-SEAL-CERTIFICATE.md`  
+**Title:** SUPER MANIFEST SEAL — Certificate  
+**Description:** Sovereign‑institutional certificate affirming authenticity, permanence, and registry‑bound status of the SUPER MANIFEST.  
+**Tag:** `super-manifest-seal-certificate`
+
+---
+
+### 4. SUPER-MANIFEST-SEAL-POINTER.md
+**Location:** `SOVERAIN-QR-HISTORIC-LEDGER/SUPER-MANIFEST-SEAL-POINTER.md`  
+**Title:** SUPER MANIFEST SEAL — Pointer  
+**Description:** Apex routing reference linking ROOT, DEMO, and CODEX realms for the SUPER MANIFEST.  
+**Tag:** `super-manifest-seal-pointer`
+
+---
+
+### 5. SUPER-MANIFEST-SEAL-BROADCAST.md
+**Location:** `SOVERAIN-QR-HISTORIC-LEDGER/SUPER-MANIFEST-SEAL-BROADCAST.md`  
+**Title:** SUPER MANIFEST SEAL — Broadcast  
+**Description:** Public‑registry broadcast declaring the SUPER MANIFEST as active, verified, and sovereign‑institutional.  
+**Tag:** `super-manifest-seal-broadcast`
+
+---
+
+### 6. SUPER-MANIFEST-SEAL-INDEX.md
+**Location:** `SOVERAIN-QR-HISTORIC-LEDGER/SUPER-MANIFEST-SEAL-INDEX.md`  
+**Title:** SUPER MANIFEST SEAL — Index  
+**Description:** Canonical index listing all components of the SUPER MANIFEST SEAL suite.  
+**Tag:** `super-manifest-seal-index`
+
+---
+
+### 7. SUPER-MANIFEST-SEAL-BUNDLE.md
+**Location:** `SOVERAIN-QR-HISTORIC-LEDGER/SUPER-MANIFEST-SEAL-BUNDLE.md`  
+**Title:** SUPER MANIFEST SEAL — Bundle  
+**Description:** Identity bundle containing checksum, GUID/UUID, and manifest linkage for the SUPER MANIFEST.  
+**Tag:** `super-manifest-seal-bundle`
+
+---
+
+### 8. SUPER-MANIFEST-SEAL-INSTALLATION-MANIFEST.md
+**Location:** `SOVERAIN-QR-HISTORIC-LEDGER/SUPER-MANIFEST-SEAL-INSTALLATION-MANIFEST.md`  
+**Title:** SUPER MANIFEST SEAL — Installation Manifest  
+**Description:** Installation sequence for verifying, activating, and registering the SUPER MANIFEST SEAL.  
+**Tag:** `super-manifest-seal-installation-manifest`
+
+---
+
+### 9. SUPER-MANIFEST-SEAL-PUBLIC-ANNOUNCEMENT.md
+**Location:** `SOVERAIN-QR-HISTORIC-LEDGER/SUPER-MANIFEST-SEAL-PUBLIC-ANNOUNCEMENT.md`  
+**Title:** SUPER MANIFEST SEAL — Public Announcement  
+**Description:** Sovereign‑institutional announcement declaring the SUPER MANIFEST active, verified, and registry‑bound.  
+**Tag:** `super-manifest-seal-public-announcement`
