@@ -5,7 +5,7 @@ import qrcode
 from PIL import Image
 
 def generate_soverain_qr_matrix():
-    print("=== ⚜️ XP SOVERAIN QR PAYLOAD ENGINES INITIALIZING ===")
+    print("=== ⚜ XP SOVERAIN QR PAYLOAD ENGINES INITIALIZING ===")
     
     # 1. Core Compressed Canonical Matrix Dataset
     compressed_payload = {
@@ -46,7 +46,22 @@ def generate_soverain_qr_matrix():
     qr_image.save(output_path)
     
     print(f"[SUCCESS] Deep Matrix Built. File saved securely to: {output_path}")
-    print("=== ⚜️ XP LEDGER BOUNDARIES PROVISIONED ===")
+    print("=== ⚜ XP LEDGER BOUNDARIES PROVISIONED ===")
 
 if __name__ == "__main__":
     generate_soverain_qr_matrix()
+
+📁 SOVERAIN-QR-HISTORIC-LEDGER/     <-- Your ledger tracking repository clone
+│
+├── 📄 generate_qr_payload.py       <-- PLACED HERE (In the repository root)
+│
+└── 📁 logs/
+    ├── 📄 production-state-profile.json
+    └── 🖼️ SOVERAIN-QR-MATRIX-FINAL.png <-- GENERATED HERE (Your raw printable QR Matrix file)
+
+    ### ⚜ XP CRYPTOGRAPHIC SCANNABLE HOOKS
+
+*   **Matrix Routing Protocol:** `id:keri` Interoperability Uniform Resource Identifier (URI)
+*   **Error Correction Configuration:** High Tier (Level H) Recovery Matrix
+*   **Verification Payload Linkage:** Cross-verified against `GDR.git` global routing maps.
+
